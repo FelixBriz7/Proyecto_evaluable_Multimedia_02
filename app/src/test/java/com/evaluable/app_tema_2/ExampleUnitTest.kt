@@ -1,4 +1,4 @@
-package com.evaluable.app_tema_1
+package com.evaluable.app_tema_2
 
 import org.junit.Test
 

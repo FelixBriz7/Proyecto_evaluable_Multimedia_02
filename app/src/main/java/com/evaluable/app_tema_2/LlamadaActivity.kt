@@ -1,16 +1,15 @@
-package com.evaluable.app_tema_1
+package com.evaluable.app_tema_2
 
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.evaluable.app_tema_1.databinding.ActivityLlamadaBinding
+import com.evaluable.app_tema_2.databinding.ActivityLlamadaBinding
 import android.Manifest
 import android.content.pm.PackageManager
 import android.os.Build
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
-import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 
 class LlamadaActivity : AppCompatActivity() {

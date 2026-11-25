@@ -1,4 +1,4 @@
-package com.evaluable.app_tema_1
+package com.evaluable.app_tema_2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.content.Intent
@@ -8,8 +8,7 @@ import android.os.Build
 import android.os.Bundle
 import android.provider.AlarmClock
 import androidx.annotation.RequiresApi
-import com.bumptech.glide.Glide
-import com.evaluable.app_tema_1.databinding.ActivityMainBinding
+import com.evaluable.app_tema_2.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.evaluable.app_tema_1
+package com.evaluable.app_tema_2
 
 import android.content.Context
 import android.content.Intent
@@ -7,7 +7,7 @@ import android.os.Bundle
 import android.util.Patterns
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.evaluable.app_tema_1.databinding.ActivityConfigBinding
+import com.evaluable.app_tema_2.databinding.ActivityConfigBinding
 import com.google.i18n.phonenumbers.NumberParseException
 import com.google.i18n.phonenumbers.PhoneNumberUtil
 import com.bumptech.glide.Glide

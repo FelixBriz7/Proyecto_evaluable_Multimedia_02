@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.evaluable.app_tema_1"
+    namespace = "com.evaluable.app_tema_2"
     compileSdk {
         version = release(37)
     }
